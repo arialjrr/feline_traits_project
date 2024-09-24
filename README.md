@@ -3,13 +3,13 @@
 ## Overview
 This project analyzes cat personality traits to understand feline behavior and identify suitable cat breeds for new owners. The analysis is based on a dataset of 4,300 cats across 56 breed groups, collected from owner self-reported questionnaires.
 
-# Features
+## Features
   Clustering analysis to categorize cat breeds
   Statistical analysis of cat traits
   Predictive modeling for shelter use and problematic behavior
   Identification of cat-friendly traits for inexperienced owners
 
-# Data
+## Data
 The dataset includes:
   Basic cat information: age, breeds, sex, presence of other cats, problematic behavior
   7 personality and behavior trait scores:
@@ -21,7 +21,7 @@ The dataset includes:
     Excessive grooming
     Litterbox issues
 
-# Methodology
+## Methodology
 
 1. Clustering Analysis
 Used K-means clustering to categorize cat breeds into three groups:
@@ -59,7 +59,7 @@ Suitability for inexperienced owners
   Developing a component to specify care requirements for each cat
   Expanding hypothesis testing
 
-# Tools and Technologies Used
+## Tools and Technologies Used
 Python for data analysis and modeling
 Machine learning algorithms: K-means, Logistic Regression, Random Forest, etc.
 Statistical tests: Pearson correlation, t-tests
